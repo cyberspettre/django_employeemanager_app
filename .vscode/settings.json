@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cd62cf74-3001-4867-8bb0-75364b9f3808/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/escheduler",
+    "appService.deploySubpath": "."
+}
